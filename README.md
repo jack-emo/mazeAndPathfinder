@@ -1,1 +1,1 @@
-# mazeAndPathfinder
+# Random Maze Generator and Pathfinder
