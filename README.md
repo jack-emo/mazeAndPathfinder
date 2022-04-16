@@ -11,3 +11,7 @@
 
 ### Usage
 ~/makeAndPathfinder python3 maze.py
+
+### Demo
+
+<img width="501" alt="Screen Shot 2022-04-16 at 4 24 43 PM" src="https://user-images.githubusercontent.com/77243976/163690318-e178f34c-37d1-4063-847d-a163375915ba.png">
